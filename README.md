@@ -122,4 +122,4 @@ Debemos tener 5 páginas:
 
 
 
-!(project_idea\Sin título-2023-06-26-1804.excalidraw)
+![imagenes](Sin título-2023-06-26-1804.excalidraw)
